@@ -34,13 +34,15 @@ I'm passionate about building modern web applications and smart solutions. With 
 
 ![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanchauhan13&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanchauhan13&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramanchauhan13&theme=radical)
+
 
 ---
 
 ### 📫 Connect With Me
 
 - 📧 Email: [ramanchauhan13@gmail.com](mailto:ramanchauhan13@gmail.com)
-- 🌐 Portfolio: [https://www.thinksync.solutions/]
+- 🌐 Portfolio: https://www.thinksync.solutions/
 - 💼 LinkedIn: [linkedin.com/in/ramanchauhan13](https://linkedin.com/in/ramanchauhan13)
 
 ---
