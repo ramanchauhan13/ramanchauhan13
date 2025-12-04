@@ -1,6 +1,6 @@
-## 👋 Hi there! I'm Raman Chauhan
+## Hi there! I'm Raman Chauhan
 
-### 🚀 Full Stack Developer | MERN | Java | AI & Cloud Enthusiast
+### 🚀 Full Stack Developer | MERN | React Native | Next.js | AI & Cloud Enthusiast
 
 I'm passionate about building modern web applications and smart solutions. With a strong foundation in the MERN stack and Java-based backends, I love exploring AI, cloud computing, and solving real-world problems through tech.
 
