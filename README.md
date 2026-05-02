@@ -53,9 +53,11 @@ Experienced in MERN, mobile app development, and high-performance backend system
 
 ### 📈 GitHub Stats
 
-- ![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanchauhan13&show_icons=true&theme=radical&cache_seconds=1800)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanchauhan13&layout=compact&theme=radical)
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramanchauhan13&theme=radical)
+![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramanchauhan13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanchauhan13&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramanchauhan13&theme=radical)
 
 ---
 
