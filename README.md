@@ -60,11 +60,11 @@ Experienced in MERN, mobile app development, and high-performance backend system
 ---
 
 ### 🚀 Currently
-🧠 Building Thinknorder – scalable tech platform
-🛠️ Developing NGO platform & smart donation system
-🤖 Creating AI-powered Career Intelligence system
-📱 Working on real-world mobile applications
-🤝 Contributing to developer communities
+- 🧠 Building Thinknorder – scalable tech platform
+- 🛠️ Developing NGO platform & smart donation system
+- 🤖 Creating AI-powered Career Intelligence system
+- 📱 Working on real-world mobile applications
+- 🤝 Contributing to developer communities
 
 ### ⚡ Fun Facts
 - 🚀 I learn by building real-world apps
