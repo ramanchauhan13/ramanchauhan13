@@ -1,17 +1,22 @@
 ## Hi there! I'm Raman Chauhan
 
-### 🚀 Full Stack Developer | MERN | React Native | Next.js | AI & Cloud Enthusiast
+### 🚀 Full-Stack Developer | App Developer | MERN | Next.js | FastAPI | AI/ML & Cloud
 
-I'm passionate about building modern web applications and smart solutions. With a strong foundation in the MERN stack and Java-based backends, I love exploring AI, cloud computing, and solving real-world problems through tech.
+I build scalable web & mobile applications with a focus on performance and real-world impact.
+Experienced in MERN, mobile app development, and high-performance backend systems using FastAPI, I work on AI-driven and cloud-based solutions.
 
 ---
 
 ### 💼 What I Do
 
-- 🔧 Building MERN stack applications
-- ☁️ Learning and implementing AWS & Cloudflare
-- 🤖 Developing AI-based tools (Career Finder, Women's Safety App, etc.)
-- 💬 Collaborating on open source & tech startups
+- 🔧 Build scalable Full-Stack systems (MERN, Next.js, Microservices)
+- 📱 Develop Mobile & Web applications (React, React Native)
+- ⚡ Design high-performance APIs & backends (Node.js, FastAPI)
+- 🤖 Create AI-powered solutions (Career Intelligence, ERP, Automation Tools)
+- ☁️ Work with Cloud & DevOps (AWS, Docker, Cloudflare)
+- 🚀 Build products at TechFlow Solutions
+- 🧠 Founder of Thinknorder – tech-driven innovation platform
+- 💬 Contribute to open-source & real-world collaborations
 
 ---
 
@@ -36,6 +41,18 @@ I'm passionate about building modern web applications and smart solutions. With 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanchauhan13&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramanchauhan13&theme=radical)
 
+---
+
+### 🚀 Currently
+🧠 Building Thinknorder – scalable tech platform
+🛠️ Developing NGO platform & smart donation system
+🤖 Creating AI-powered Career Intelligence system
+📱 Working on real-world mobile applications
+🤝 Contributing to developer communities
+
+### ⚡ Fun Facts
+- 🚀 I learn by building real-world apps
+- 🤝 I enjoy helping in tech communities
 
 ---
 
@@ -46,11 +63,3 @@ I'm passionate about building modern web applications and smart solutions. With 
 - 💼 LinkedIn: [linkedin.com/in/ramanchauhan13](https://linkedin.com/in/ramanchauhan13)
 
 ---
-
-### ⚡ Fun Facts
-- I love learning by building real-world apps.
-- I enjoy helping others in tech communities.
-- I’m currently building a NGO, a donation platform, and an AI career counselor!
-
----
-
