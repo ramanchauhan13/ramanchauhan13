@@ -23,15 +23,31 @@ Experienced in MERN, mobile app development, and high-performance backend system
 ### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/-AI-8A2BE2?style=flat)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
